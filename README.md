@@ -1,5 +1,7 @@
 # Exploratory Hotel Analysis Project
 
+![images](https://github.com/Asfiya-edu/EDA-Hotel-Analysis-Project/assets/135417984/f8f09772-2fd5-413b-af2a-8ab0aaedbc03)
+
 **Hotel Booking Data Analysis**
 
 This project revolves around analyzing booking data for a city hotel and a resort hotel to gain insights into various factors affecting bookings. The dataset contains information such as booking dates, length of stay, number of guests, and availability of parking spaces, among other details. Here's a comprehensive description of the project:
